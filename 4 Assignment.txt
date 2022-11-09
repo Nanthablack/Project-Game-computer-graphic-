@@ -1,0 +1,22 @@
+Assignment 4
+
+THIS IS YOUR FINAL ASSIGNMENT
+
+-Use vertices to create an 800 x 600 image
+-Work in pairs
+-Draw image in a theme of “YOUR DREAM HOLIDAY”
+-Use Modern OpenGL with lighting model only. You can use the external model and textures.
+-Submit through Google Classroom only
+
+-Submit C++ files named “Assignment4_studentID.cpp” with required shaders and 
+the captured image named “Assignment4_studentID_yourPairID.jpg” 
+or “Assignment4_studentID_yourPairID.png”, 
+for example, Assignment4_63050001_63050002
+
+-Write every member’s name and student ID in 
+your group in Google Classroom submission comment
+
+-Every “inspired” image, textures, and models must also be referenced 
+in Google Classroom submission comment
+
+-Submit before 23.59 of Sunday 1 May 2022
